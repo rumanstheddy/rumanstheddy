@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 
 I'm Sumanth, a Software Engineer at U.S. Bank with a passion for crafting efficient and intuitive user experiences. 🚀
 
-Let's connect! 📧 sumanthcob@gmail.com  
-Check out my portfolio: 🔗 [sumanthreddy.co](https://sumanthreddy.co)
-My [Linkedin](https://www.linkedin.com/in/sumanthcob/)
-
 🌍 **Location:** Raleigh-Durham Area, North Carolina  
 🎓 **Education:** Master's in Computer Science from Northeastern University  
+
+Let's connect! 📧 sumanthcob@gmail.com
+🔗 [Portfolio](https://sumanthreddy.co) | 🧑‍💼 [Linkedin](https://www.linkedin.com/in/sumanthcob/)
 
 ## 🛠️ Tech Stack
 

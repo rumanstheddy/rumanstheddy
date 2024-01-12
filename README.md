@@ -41,7 +41,7 @@ Databases: MongoDB, MySQL, SQLite
 - Built a support app using Python3 and PyQt5, boosting the productivity of the development team.
 - Conducted usability testing, resolving GUI-related technical issues.
 
-## 🌈 Hobbies
+## 🎨 Hobbies
 
 Beyond coding, I enjoy:
 - Photography 📷

@@ -20,7 +20,7 @@ I'm Sumanth, a Software Engineer at U.S. Bank with a passion for crafting effici
 🎓 **Education:** Master's in Computer Science from Northeastern University  
 
 Let's connect! 📧 sumanthcob@gmail.com
-🔗 [Portfolio](https://sumanthreddy.co) | 🧑‍💼 [Linkedin](https://www.linkedin.com/in/sumanthcob/)
+🔗 [Portfolio](https://sumanthreddy.co) 🧑‍💼 [Linkedin](https://www.linkedin.com/in/sumanthcob/)
 
 ## 🛠️ Tech Stack
 

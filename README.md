@@ -18,7 +18,7 @@ I'm Sumanth, a Software Engineer at U.S. Bank with a passion for crafting effici
 
 Let's connect! 📧 sumanthcob@gmail.com  
 Check out my portfolio: 🔗 [sumanthreddy.co](https://sumanthreddy.co)
-My Linkedin [Profile](https://www.linkedin.com/in/sumanthcob/)
+My [Linkedin](https://www.linkedin.com/in/sumanthcob/)
 
 🌍 **Location:** Raleigh-Durham Area, North Carolina  
 🎓 **Education:** Master's in Computer Science from Northeastern University  

@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 
 I'm Sumanth, a Software Engineer at U.S. Bank with a passion for crafting efficient and intuitive user experiences. 🚀
 
+Let's connect! 📧 sumanthcob@gmail.com  
+Check out my portfolio: 🔗 [sumanthreddy.co](https://sumanthreddy.co)
+My Linkedin [Profile](https://www.linkedin.com/in/sumanthcob/)
+
 🌍 **Location:** Raleigh-Durham Area, North Carolina  
 🎓 **Education:** Master's in Computer Science from Northeastern University  
 
@@ -24,29 +28,15 @@ I'm Sumanth, a Software Engineer at U.S. Bank with a passion for crafting effici
 Languages: JavaScript, Java  
 Frameworks: React.js, Angular, Redux, Express, Node.js, Spring, jQuery  
 Software: Visual Studio, Eclipse, GitLab, GitHub, Android Studio  
-Databases: MongoDB, MySQL, SQLite  
+Databases: MongoDB, MySQL, SQLite
 
-## 💼 Work Experience
+## 🛠️ Tech Stack
 
-### U.S. Bank | Software Engineer
-- Engineered enhancements for 'SinglePoint’s' cash-ordering module, driving a 25% surge in engagement.
-- Revamped legacy Java/JSP pages, modernizing with JavaScript and 'Shield' for heightened user engagement.
-- Maintained and developed React.js components in 'Shield,' ensuring scalability and A11Y compliance.
+Languages: JavaScript, Java  
+Frameworks: React.js, Angular, Redux, Express, Node.js, Spring, jQuery  
+Software: Visual Studio, Eclipse, GitLab, GitHub, Android Studio  
+Databases: MongoDB, MySQL, SQLite 
 
-### Northeastern University | Graduate Teaching Assistant
-- Developed JavaScript, HTML, CSS & MERN stack code for student assignments.
-- Collaborated with 7 other TAs and the professor, enhancing student support.
+## 🚧 Project(s) I'm currently working on
 
-### Cyient | Software Engineer Intern
-- Built a support app using Python3 and PyQt5, boosting the productivity of the development team.
-- Conducted usability testing, resolving GUI-related technical issues.
-
-## 🎨 Hobbies
-
-Beyond coding, I enjoy:
-- Photography 📷
-- Sketching 📝
-- Learning guitar 🎸
-
-Let's connect! 📧 sumanthcob@gmail.com  
-Check out my portfolio: 🔗 [sumanthreddy.co](https://sumanthreddy.co)
+- [Meteoscope](https://github.com/rumanstheddy/meteoscope)

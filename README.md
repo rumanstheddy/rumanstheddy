@@ -30,13 +30,6 @@ Frameworks: React.js, Angular, Redux, Express, Node.js, Spring, jQuery
 Software: Visual Studio, Eclipse, GitLab, GitHub, Android Studio  
 Databases: MongoDB, MySQL, SQLite
 
-## 🛠️ Tech Stack
-
-Languages: JavaScript, Java  
-Frameworks: React.js, Angular, Redux, Express, Node.js, Spring, jQuery  
-Software: Visual Studio, Eclipse, GitLab, GitHub, Android Studio  
-Databases: MongoDB, MySQL, SQLite 
-
 ## 🚧 Project(s) I'm currently working on
 
 - [Meteoscope](https://github.com/rumanstheddy/meteoscope)

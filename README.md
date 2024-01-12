@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I'm Sumanth, a Software Engineer at U.S. Bank with a passion for crafting efficient and intuitive user experiences. 🚀
 
-🌍 **Location:** Raleigh-Durham Area, North Carolina  
+🌍 **Location:** Raleigh-Durham-Chapel Hill Area, North Carolina  
 🎓 **Education:** Master's in Computer Science from Northeastern University  
 
 Let's connect!  

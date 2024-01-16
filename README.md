@@ -31,5 +31,4 @@ Databases: MongoDB, MySQL, SQLite
 
 ## 🚧 Project(s) I'm currently working on
 
-- [Meteoscope](https://github.com/rumanstheddy/meteoscope)
 - [AngularChrono](https://github.com/rumanstheddy/Ang-Stop-Watch)

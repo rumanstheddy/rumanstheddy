@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋
+# Hello! 👋
 
 I'm Sumanth, a Software Engineer at U.S. Bank with a passion for crafting efficient and intuitive user experiences. 🚀
 

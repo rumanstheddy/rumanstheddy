@@ -25,8 +25,8 @@ Let's connect!
 ## 🛠️ Tech Stack
 
 Languages: JavaScript, Java  
-Frameworks: React.js, Angular, Redux, Express, Node.js, Spring, jQuery
-  Databases: MongoDB, MySQL, SQLite
+Frameworks: React.js, Angular, Redux, Express, Node.js, Spring, jQuery  
+Databases: MongoDB, MySQL, SQLite
 
 ## 🚧 Project(s) I'm currently working on
 

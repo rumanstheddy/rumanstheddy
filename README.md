@@ -20,8 +20,8 @@ I'm Sumanth, a Software Engineer at U.S. Bank with a passion for crafting effici
 🎓 **Education:** Master's in Computer Science from Northeastern University  
 
 Let's connect!  
-📧 sumanthcob@gmail.com 🔗 [Portfolio](https://sumanthreddy.co) 🧑‍💼 [Linkedin](https://www.linkedin.com/in/sumanthcob/)
-
+📧 sumanthcob@gmail.com 🔗 [Portfolio](https://sumanthreddy.co) 🧑‍💼 [Linkedin](https://www.linkedin.com/in/sumanthcob/)  
+  
 ## 💻 Skills
 
 <div align="center">
@@ -55,7 +55,7 @@ Let's connect!
   <img src="https://img.shields.io/badge/-Docker-FADDC6?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">
   <img src="https://img.shields.io/badge/-Vue-FADDC6?logo=vue.js&logoColor=4FC08D&style=for-the-badge&logoWidth=30" alt="VueJS">
 </div>
-
+  
 ## 🚧 Project(s) I'm currently working on
 
 - [Meteoscope](https://github.com/rumanstheddy/meteoscope)

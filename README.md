@@ -38,7 +38,7 @@ Let's connect!
 ### I have also worked with
 <div align="center">
 
-  <img src="https://img.shields.io/badge/-Angular-F3F7FA?logo=angular&logoColor=7952B3&style=for-the-badge&logoWidth=30" alt="Angular">
+  <img src="https://img.shields.io/badge/-Angular-F3F7FA?logo=angular&logoColor=D70230&style=for-the-badge&logoWidth=30" alt="Angular">
   <img src="https://img.shields.io/badge/-Bootstrap-F3F7FA?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=30" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-Tailwind CSS-F3F7FA?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge&logoWidth=30" alt="Tailwind CSS">
   <img src="https://shields.io/badge/chakra--ui-F3F7FA?logo=chakraui&style=for-the-badge&logoWidth=30" alt="Chakra UI">

@@ -38,7 +38,6 @@ Let's connect!
 ### I have also worked with
 <div align="center">
 
-  <img src="https://img.shields.io/badge/-Angular-F3F7FA?logo=angular&logoColor=D70230&style=for-the-badge&logoWidth=30" alt="Angular">
   <img src="https://img.shields.io/badge/-Bootstrap-F3F7FA?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=30" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-Tailwind CSS-F3F7FA?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge&logoWidth=30" alt="Tailwind CSS">
   <img src="https://shields.io/badge/chakra--ui-F3F7FA?logo=chakraui&style=for-the-badge&logoWidth=30" alt="Chakra UI">
@@ -52,6 +51,7 @@ Let's connect!
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Typescript-FADDC6?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=30" alt="Typescript">
+  <img src="https://img.shields.io/badge/-Angular-F3F7FA?logo=angular&logoColor=D70230&style=for-the-badge&logoWidth=30" alt="Angular">
   <img src="https://img.shields.io/badge/-Next.js-FADDC6?logo=next.js&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Next.js">
   <img src="https://img.shields.io/badge/-PostgreSQL-FADDC6?logo=postgresql&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-Docker-FADDC6?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">

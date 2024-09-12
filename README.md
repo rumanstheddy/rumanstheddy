@@ -20,7 +20,7 @@ I'm Sumanth, a Front-end Software Engineer at U.S. Bank with a passion for craft
 🎓 **Education:** Master's in Computer Science from Northeastern University  
 
 Let's connect!  
-📧 sumanthcob@gmail.com 🔗 [Portfolio](https://sumanthreddy.co) 🧑‍💼 [Linkedin](https://www.linkedin.com/in/sumanthcob/)  
+📧 sumanthcob@gmail.com 🔗 [Portfolio](https://sumanthreddy.co) 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/sumanthcob/)  
   
 ## 💻 Skills
 

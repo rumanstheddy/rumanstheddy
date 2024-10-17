@@ -51,10 +51,9 @@ Let's connect!
 ### In my learning list
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Next.js-FADDC6?logo=next.js&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Next.js">
+  <img src="https://img.shields.io/badge/ReactNative-FADDC6?logo=React&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React Native">
   <img src="https://img.shields.io/badge/-Angular-FADDC6?logo=angular&logoColor=D70230&style=for-the-badge&logoWidth=30" alt="Angular">
   <img src="https://img.shields.io/badge/-Next.js-FADDC6?logo=next.js&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Next.js">
-  <img src="https://img.shields.io/badge/ReactNative-FADDC6?logo=React&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React Native">
   <img src="https://img.shields.io/badge/-PostgreSQL-FADDC6?logo=postgresql&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-Docker-FADDC6?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">
   <img src="https://img.shields.io/badge/-Vue-FADDC6?logo=vue.js&logoColor=4FC08D&style=for-the-badge&logoWidth=30" alt="VueJS">

@@ -66,5 +66,5 @@ Let's connect!
 - [SS Playscore Pal](https://github.com/rumanstheddy/ss-play-score-pal)
 
 <div align="center">
-<a href="https://app.daily.dev/rumanstheddy"><img src="https://api.daily.dev/devcards/v2/ywx3b7yRMn1zcGmVAt4XL.png?r=tle&type=wide" width="652" alt="Sumanth Reddy's Dev Card"/></a>
+<a href="https://app.daily.dev/rumanstheddy"><img src="https://api.daily.dev/devcards/v2/ywx3b7yRMn1zcGmVAt4XL.png?r=tle&type=default" width="356" alt="Sumanth Reddy's Dev Card"/></a>
 </div>

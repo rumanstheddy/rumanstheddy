@@ -30,8 +30,6 @@ Let's connect!
   <img src="https://img.shields.io/badge/-JavaScript-05128B?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
   <img src="https://img.shields.io/badge/-React-05128B?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
   <img src="https://img.shields.io/badge/-Git-05128B?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=30" alt="Git">
-  <br>
-  <img src="https://img.shields.io/badge/-GitHub-FB750B?logo=github&logoColor=181717&style=for-the-badge&logoWidth=30" alt="GitHub">
 </div>
 
 ### I have also worked with

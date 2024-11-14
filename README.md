@@ -59,5 +59,7 @@ Let's connect!
   
 ## 🚧 Project(s) I'm currently working on
 
-- [Meteoscope](https://github.com/rumanstheddy/meteoscope)
 - [SS Playscore Pal](https://github.com/rumanstheddy/ss-play-score-pal)
+- [Meteo Native](https://github.com/rumanstheddy/meteo-native)
+- [Amgular Meteo](https://github.com/rumanstheddy/angular-meteo)
+- [Veo Meteo](https://github.com/rumanstheddy/vue-meteo)

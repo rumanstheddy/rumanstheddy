@@ -30,12 +30,7 @@ Let's connect!
   <img src="https://img.shields.io/badge/-JavaScript-05128B?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
   <img src="https://img.shields.io/badge/-React-05128B?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
   <img src="https://img.shields.io/badge/-Git-05128B?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=30" alt="Git">
-</div>
-
-### I have also worked with
-<div align="center">
-
-  <img src="https://img.shields.io/badge/-Bootstrap-F3F7FA?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=30" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/-Bootstrap-F3F7FA?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=30" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-Tailwind CSS-F3F7FA?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge&logoWidth=30" alt="Tailwind CSS">
     <img src="https://img.shields.io/badge/-Typescript-F3F7FA?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=30" alt="Typescript">
   <img src="https://shields.io/badge/chakra--ui-F3F7FA?logo=chakraui&style=for-the-badge&logoWidth=30" alt="Chakra UI">

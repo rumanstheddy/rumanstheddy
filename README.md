@@ -57,4 +57,4 @@ Let's connect!
 - [SS Playscore Pal](https://github.com/rumanstheddy/ss-play-score-pal)
 - [Meteo Native](https://github.com/rumanstheddy/meteo-native)
 - [Angular Meteo](https://github.com/rumanstheddy/angular-meteo)
-- [Veo Meteo](https://github.com/rumanstheddy/vue-meteo)
+- [Vue Meteo](https://github.com/rumanstheddy/vue-meteo)

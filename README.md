@@ -25,11 +25,11 @@ Let's connect!
 ## 💻 Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-05128B?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-05128B?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-05128B?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
-  <img src="https://img.shields.io/badge/-React-05128B?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
-  <img src="https://img.shields.io/badge/-Git-05128B?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=30" alt="Git">
+  <img src="https://img.shields.io/badge/-HTML5-F3F7FA?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-F3F7FA?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
+  <img src="https://img.shields.io/badge/-React-F3F7FA?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
+  <img src="https://img.shields.io/badge/-Git-F3F7FA?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=30" alt="Git">
     <img src="https://img.shields.io/badge/-Bootstrap-F3F7FA?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=30" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-Tailwind CSS-F3F7FA?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge&logoWidth=30" alt="Tailwind CSS">
     <img src="https://img.shields.io/badge/-Typescript-F3F7FA?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=30" alt="Typescript">

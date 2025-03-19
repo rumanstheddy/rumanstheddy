@@ -58,3 +58,6 @@ Let's connect!
 - [Meteo Native](https://github.com/rumanstheddy/meteo-native)
 - [Angular Meteo](https://github.com/rumanstheddy/angular-meteo)
 - [Vue Meteo](https://github.com/rumanstheddy/vue-meteo)
+
+
+![](https://komarev.com/ghpvc/?username=rumanstheddy&style=for-the-badge&label=PROFILE+VISITS)

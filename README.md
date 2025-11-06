@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hello! 👋
 
-I'm Sumanth, a Front-end Software Engineer at U.S. Bank with a passion for crafting efficient and intuitive user experiences. 🚀
+I'm Sumanth, a Front-end Software Engineer with a passion for crafting efficient and intuitive user experiences. 🚀
 
 🌍 **Location:** Raleigh-Durham-Chapel Hill Area, North Carolina  
 🎓 **Education:** Master's in Computer Science from Northeastern University  

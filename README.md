@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 I'm Sumanth, a Front-end Software Engineer with a passion for crafting efficient and intuitive user experiences. 🚀
 
-📍 Raleigh-Durham-Chapel Hill Area, North Carolina  
-🎓 Master's in Computer Science from Northeastern University  
+💼 **Actively seeking a new Full-time Software Engineering role!** Let's connect about opportunities.
 
 Let's connect!  
 📧 sumanthcob@gmail.com 🔗 [Portfolio](https://sumanthreddy.co) 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/sumanthcob/)  

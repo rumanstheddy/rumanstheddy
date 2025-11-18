@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I'm Sumanth, a Front-end Software Engineer with a passion for crafting efficient and intuitive user experiences. 🚀
 
-💼 **Actively seeking a new Full-time Software Engineering role!** Let's connect about opportunities.
+💼 **ACTIVELY SEEKING A NEW FULL-TIME SOFTWARE ENGINEERING ROLE!** Let's connect about opportunities.
 
 Let's connect!  
 📧 sumanthcob@gmail.com 🔗 [Portfolio](https://sumanthreddy.co) 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/sumanthcob/)  

@@ -42,7 +42,7 @@ I'm Sumanth, a Front-end Software Engineer with a passion for crafting efficient
 ### In my learning list
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white&style=for-the-badge&logoWidth=30" alt="CSharp">
+  <img src="https://img.shields.io/badge/C%23-239120?logo=dotnet&logoColor=white&style=for-the-badge&logoWidth=30" alt="CSharp">
   <img src="https://img.shields.io/badge/React Native-FADDC6?logo=React&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React Native">
   <img src="https://img.shields.io/badge/-Angular-FADDC6?logo=angular&logoColor=D70230&style=for-the-badge&logoWidth=30" alt="Angular">
   <img src="https://img.shields.io/badge/-Next.js-FADDC6?logo=next.js&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Next.js">

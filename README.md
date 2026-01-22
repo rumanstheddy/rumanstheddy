@@ -50,5 +50,7 @@ I'm Sumanth, a Front-end Software Engineer with a passion for crafting efficient
   <img src="https://img.shields.io/badge/-Docker-FADDC6?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">
   <img src="https://img.shields.io/badge/-Vue-FADDC6?logo=vue.js&logoColor=4FC08D&style=for-the-badge&logoWidth=30" alt="VueJS">
 </div>
+
 <br/>
+
 ![](https://komarev.com/ghpvc/?username=rumanstheddy&style=for-the-badge&label=PROFILE+VISITS)

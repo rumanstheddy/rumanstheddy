@@ -53,4 +53,6 @@ I'm Sumanth, a Front-end Software Engineer with a passion for crafting efficient
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=rumanstheddy&style=for-the-badge&label=PROFILE+VISITS)
+<div align="center">
+  ![](https://komarev.com/ghpvc/?username=rumanstheddy&style=for-the-badge&label=PROFILE+VISITS)
+</div>

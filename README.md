@@ -26,6 +26,7 @@ I enjoy collaborating with the open-source community and have contributed to var
 
 [View all my merged PRs](https://github.com/pulls?q=is%3Apr+author%3Arumanstheddy+archived%3Afalse+is%3Amerged)
   
+
 ## 💻 Skills
 
 <div align="center">
@@ -44,6 +45,7 @@ I enjoy collaborating with the open-source community and have contributed to var
   <img src="https://img.shields.io/badge/-MongoDB-F3F7FA?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MongoDB">
   <img src="https://img.shields.io/badge/-GraphQL-F3F7FA?logo=graphql&logoColor=DA0393&style=for-the-badge&logoWidth=30" alt="GraphQL">
 </div>
+
 
 ### In my learning list
 

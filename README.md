@@ -22,7 +22,7 @@ I'm Sumanth, a Front-end Software Engineer with a passion for crafting efficient
 
 ## 🛠️ Open Source Contributions
 
-I enjoy collaborating with the open-source community and have contributed to various projects.
+I have recently started contributing to open-source projects and am excited to be part of the community!
 
 [View all my merged PRs](https://github.com/pulls?q=is%3Apr+author%3Arumanstheddy+archived%3Afalse+is%3Amerged)
   

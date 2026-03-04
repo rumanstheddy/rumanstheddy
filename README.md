@@ -36,6 +36,7 @@ I have recently started contributing to open-source projects and am excited to b
   <img src="https://img.shields.io/badge/-CSS3-F3F7FA?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="CSS3">
   <img src="https://img.shields.io/badge/-JavaScript-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
   <img src="https://img.shields.io/badge/-React-F3F7FA?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
+  <img src="https://img.shields.io/badge/-Next.js-FADDC6?logo=next.js&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Next.js">
   <img src="https://img.shields.io/badge/-Git-F3F7FA?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=30" alt="Git">
     <img src="https://img.shields.io/badge/-Bootstrap-F3F7FA?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=30" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-Tailwind CSS-F3F7FA?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge&logoWidth=30" alt="Tailwind CSS">
@@ -55,7 +56,6 @@ I have recently started contributing to open-source projects and am excited to b
   <img src="https://img.shields.io/badge/C%23-FADDC6?logo=dotnet&logoColor=4E2ACD&style=for-the-badge&logoWidth=30" alt="CSharp">
   <img src="https://img.shields.io/badge/React Native-FADDC6?logo=React&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React Native">
   <img src="https://img.shields.io/badge/-Angular-FADDC6?logo=angular&logoColor=D70230&style=for-the-badge&logoWidth=30" alt="Angular">
-  <img src="https://img.shields.io/badge/-Next.js-FADDC6?logo=next.js&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Next.js">
   <img src="https://img.shields.io/badge/-PostgreSQL-FADDC6?logo=postgresql&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-Docker-FADDC6?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">
   <img src="https://img.shields.io/badge/-Vue-FADDC6?logo=vue.js&logoColor=4FC08D&style=for-the-badge&logoWidth=30" alt="VueJS">
